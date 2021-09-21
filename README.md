@@ -76,12 +76,3 @@ Be sure that git is installed on the computer. Installation details found on [Go
 ## Where can I go to find more training for Git after these intro lessons?
 Great question. If you're at the University of Arizona there are organizations that can help: Research Bazaar Arizona. There's also an more advanced git lesson in this organization's profile.
 
-
-
-# Frequently "Asked" Questions
-
-## I really don't like what you're doing here. If you don't teach researchers $X git function, they're not going to be able to do $"cool thing"/$"survive"/$"be amazing".
-Research has been happening for hundreds of years before versioning tools. I think they'll be fine. I'm just trying to teach them something that'll make their life a bit easier.
-
-## You're playing with forces you can't possibly understand!
-You're right. I'm a researcher; I do that every day.
